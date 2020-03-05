@@ -1,0 +1,9 @@
+C:\Users\ConistraBrandian\source\repos\IncomeWinTech\IncomeWinTech\bin\Debug\IncomeWinTech.exe
+C:\Users\ConistraBrandian\source\repos\IncomeWinTech\IncomeWinTech\bin\Debug\IncomeWinTech.pdb
+C:\Users\ConistraBrandian\source\repos\IncomeWinTech\IncomeWinTech\obj\Debug\IncomeWinTech.csprojAssemblyReference.cache
+C:\Users\ConistraBrandian\source\repos\IncomeWinTech\IncomeWinTech\obj\Debug\IncomeWinTech.Form1.resources
+C:\Users\ConistraBrandian\source\repos\IncomeWinTech\IncomeWinTech\obj\Debug\IncomeWinTech.Properties.Resources.resources
+C:\Users\ConistraBrandian\source\repos\IncomeWinTech\IncomeWinTech\obj\Debug\IncomeWinTech.csproj.GenerateResource.cache
+C:\Users\ConistraBrandian\source\repos\IncomeWinTech\IncomeWinTech\obj\Debug\IncomeWinTech.exe
+C:\Users\ConistraBrandian\source\repos\IncomeWinTech\IncomeWinTech\obj\Debug\IncomeWinTech.pdb
+C:\Users\ConistraBrandian\source\repos\IncomeWinTech\IncomeWinTech\bin\Debug\IncomeWinTech.exe.config
